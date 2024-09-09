@@ -10,7 +10,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2",
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.7.5",
+    "socketio2": "npm:socket.io@^2.2.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
